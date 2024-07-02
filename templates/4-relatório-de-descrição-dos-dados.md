@@ -2,10 +2,6 @@
 
 Relatório de Descrição dos Dados
 
-{{ Nome da Sua Equipe }}
-
-{{ Nome da Sua Empresa }}
-
 {{ Versão do Documento }}
 
 {{DATA}}
