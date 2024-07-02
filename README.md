@@ -1,15 +1,27 @@
-# Data Engineering Project Documentation Templates
-This repository is used to provide guidance in a standard data engineering project
-that consists of a data lake and data warehouse. The documentation originated
-out of a need to standardize a requirements gathering methodology. It is derived
-from the [CRISP-DM (Cross Industry Standard Process for Data Mining)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining).
+# Templates de Documentação de Projetos de Engenharia de Dados
 
-## Usage
-There are nine templates numbered in logical order within the templates directory. These templates have text in italics that is used for reference purposes. You may clone, modify, or fork the repository at your leisure.
+Este repositório é utilizado para fornecer orientação em um projeto padrão de engenharia de dados da
+BU de Investimentos PicPay. A documentação surgiu da necessidade de padronizar uma metodologia de
+coleta de requisitos e implementação dos projetos desenvolvidos pelo time de engenharia de dados.
+Este padrão deriva do
+[CRISP-DM (Processo Padrão Interindustrial para Mineração de Dados)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining).
 
-Note that some documentation processes may overlap as you learn more about your project. Do not feel obligated to fill everything out in sequence. Generally you will fill out the first few documents in order and adjust as needed. For more details, learn about CRISP-DM.
+## Uso
 
-## Contributing
-My goal in publishing these templates is to make it teach others how to formalize a process around data engineering. It would be awesome for the community to expand on some of the templates to make them more featureful.
+Existem nove modelos numerados dentro do diretório `templates`. Esses modelos possuem as orientações
+que poderão ser utilizadas para referência. Você pode clonar, modificar ou fazer um fork do
+repositório à vontade.
 
-To contribute, fork this repository and open a pull request with your changes.
+Observe que alguns processos de documentação podem se sobrepor à medida que você aprende mais sobre
+seu projeto. Não se sinta obrigado a preencher tudo em sequência. Geralmente, você preencherá os
+primeiros documentos em ordem e ajustará conforme necessário. Para mais detalhes, aprenda sobre o
+CRISP-DM.
+
+## Contribuindo
+
+Nosso objetivo ao publicar esses modelos é fornecer uma alternativa a outras equipes de dados da
+PicPay quanto a formalização dos seus processos de engenharia de dados. Será extremamente
+satisfatório que outras BUs e suas equipes de dados expandam alguns os modelos para torná-los mais
+completos.
+
+Para contribuir, faça um fork deste repositório e abra um pull request com suas alterações.
